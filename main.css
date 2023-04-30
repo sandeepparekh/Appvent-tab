@@ -1,7 +1,8 @@
 body {
-    background-color: aqua;
+    background-color:beige;
 }
 
 h1 {
-    color: red;
+    margin: 10px auto;
+    width: fit-content;
 }
